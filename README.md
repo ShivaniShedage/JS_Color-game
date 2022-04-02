@@ -1,6 +1,4 @@
 # JS_Color_Guessing_Game
 
-<hr>
-![Screenshot (969)](https://user-images.githubusercontent.com/88190573/161377584-67b11cc3-8031-41fd-a5e5-376deb59b683.png)
-
+![Screenshot (969)](https://user-images.githubusercontent.com/88190573/161377622-30091bd7-d6c8-4c0c-b8d0-98b4cd91630a.png)
 <hr>
