@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: aliceblue;
+    font-family: monospace;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+h1{
+    background: linear-gradient(to right,gold,yellow, #7676ff, #36dd36, orange, red, violet,pink);
+    text-shadow: 1px 1px silver;
+    font-size:45px;
+    padding: 30px;
+}
+.rgbspan{
+    font-size: 60px;
+    color: white;
+    background: lightcoral;
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    border: 2px dashed white;    
+}
+h2{
+    color: crimson;
+    background: blanchedalmond;
+    font-size: 20px;
+    padding: 5px;
+}
+.button{
+    text-align: center;
+    padding: 5px;
+    background: white;
+    margin-bottom: 10px;
+}
+button{
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    background: none;
+    letter-spacing: 1px;
+    color: lightcoral;
+}
+button:hover{
+    background: #f080808c;
+    color: white;
+}
+.status{
+    width: 20%;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+    color: lightcoral;
+    letter-spacing: 1px;
+}
+.mainBox{
+  width: 600px;
+  margin:0 auto;
+}
+.box{
+    width: 30%;
+    background: white;
+    padding-bottom: 25%;
+    margin: 1.66%;
+    float: left;
+    border-radius: 20px;
+}
