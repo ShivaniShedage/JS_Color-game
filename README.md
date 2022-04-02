@@ -1,1 +1,1 @@
-# JS_Color-game
+# JS_Color_game
